@@ -102,7 +102,7 @@ my_rest_api/
 - `POST /populate`: Populate the table with sample data.
 
 
-By following these steps, you should be able to automate the population of your database when running the Docker container.
+By following these steps, you should be able to automate the population of the database when running the Docker container. Additionally, you should be able to use the .bat files to setup, run and test the project. Furthermore, the Makefule should also be able to setup, run and test the project.
 
 You can find the .git repository here: https://github.com/RokasKlimasauskas/Employee-API-Task/
 
