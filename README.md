@@ -3,7 +3,7 @@
 This is a RESTful API service for managing employees made by following Operations Task for AI Labs
 
 ## Project Structure
-
+```sh
 my_rest_api/
 ├── app/
 │ ├── init.py
@@ -21,7 +21,7 @@ my_rest_api/
 ├── run.bat
 ├── test.bat
 ├── run.py
-
+```
 ## Setup
 
 ### Using Makefile
@@ -102,7 +102,9 @@ my_rest_api/
 - `POST /populate`: Populate the table with sample data.
 
 
-By following these steps, you should be able to automate the population of your database when running the Docker container. If you encounter any issues or have further questions, please let me know!
+By following these steps, you should be able to automate the population of your database when running the Docker container.
+
+You can find the .git repository here: https://github.com/RokasKlimasauskas/Employee-API-Task/
 
 Completed by Rokas Klimasauskas
 
